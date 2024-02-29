@@ -1,5 +1,0 @@
-C:\Users\nashb\source\repos\Mod2\Mod2\obj\Debug\netstandard2.0\Mod2.csproj.AssemblyReference.cache
-C:\Users\nashb\source\repos\Mod2\Mod2\obj\Debug\netstandard2.0\Mod2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nashb\source\repos\Mod2\Mod2\obj\Debug\netstandard2.0\Mod2.AssemblyInfoInputs.cache
-C:\Users\nashb\source\repos\Mod2\Mod2\obj\Debug\netstandard2.0\Mod2.AssemblyInfo.cs
-C:\Users\nashb\source\repos\Mod2\Mod2\obj\Debug\netstandard2.0\Mod2.csproj.CoreCompileInputs.cache
